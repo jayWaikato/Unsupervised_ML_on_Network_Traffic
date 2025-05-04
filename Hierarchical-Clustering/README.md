@@ -4,7 +4,9 @@
 
 ## 🎯 Overview
 Hierarchical clustering builds nested clusters by merging or splitting them successively.  
+In this demo, we apply hierarchical clustering to **network traffic data**—leveraging features like protocol type, byte counts, and flow duration—to uncover traffic patterns at multiple scales.  
 👉 Use dendrograms to visualize cluster hierarchy.
+
 
 ## 📝 Brief Explanation
 Hierarchical clustering builds a tree of clusters (a dendrogram). There are two main approaches:
