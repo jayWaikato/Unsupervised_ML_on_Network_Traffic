@@ -2,9 +2,12 @@
 
 ![DBSCAN Result](DBscan.png)
 
+
 ## 🎯 Overview
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) groups points that are closely packed together, marking as outliers those in low-density regions.  
+In this demo, we apply DBSCAN to **network traffic data**—using features such as packet size and inter-arrival time—to discover clusters of similar traffic flows and flag anomalous flows.  
 👉 Great for clusters of arbitrary shape and noise detection.
+
 
 ## 📝 Brief Explanation
 DBSCAN identifies clusters by looking for areas of high point density. It classifies points as:
